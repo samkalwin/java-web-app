@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Greens Technologies, Adyar, Chennai, Tamilnadu.</h2>
-			<h3>Contact @ +91-9095750254 </h3>
+			<h3>Project By Sam @ +91-9095750254 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Greens Technologies 2019</p>
+		<p>&copy; Greens Technologies 2023</p>
 	</footer>
 </div>
 
