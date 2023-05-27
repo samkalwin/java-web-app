@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC by sam</title>
+<title>Maven + Spring MVC</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Greens Technologies, Adyar, Chennai, Tamilnadu.</h2>
-			<h3>Project By Sam @ +91-9095750254 </h3>
+			<h3>Project By THARIQ OS @ +91-8012309936 </h3>
 		</div>	
 	</div>
 
